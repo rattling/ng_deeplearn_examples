@@ -1,0 +1,6 @@
+This is the culmination of course 1 in the DL specializaiton.
+The code is self-contained for re-use (i.e. any necessary helper modules are present along with training examples etc)
+Taking the deep learning course examples from jupyter and editing them into working standalone
+python programs that I can reuse
+These two modules should allow me to run a basic deep learning algorithm against any image or even tabular data
+No convolutions etc.  

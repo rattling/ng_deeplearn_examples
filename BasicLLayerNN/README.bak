@@ -1,0 +1,4 @@
+Taking the deep learning course examples from jupyter and editing them into working standalone
+python programs that I can reuse
+These two modules should allow me to run a basic deep learning algorithm against any image or even tabular data
+No convolutions etc.  
